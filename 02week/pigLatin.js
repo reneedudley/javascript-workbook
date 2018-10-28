@@ -9,7 +9,7 @@ const rl = readline.createInterface({
 
 
 function pigLatin(word) {
-
+  console.log(word)
   // Your code here
 
 }
